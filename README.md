@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenManjappa&theme=dark" alt="naveenmanjappa" width="350"/>
+  <img src="https://my-github-streak-stats-beta.vercel.app?user=NaveenManjappa&theme=tokyonight" alt="GitHub Streak" width="350" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaveenManjappa&show_icons=true&locale=en&layout=compact&theme=dark" alt="NaveeManjappa" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaveenManjappa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NaveeManjappa" width="350"/>
 </p>  
 
