@@ -1,27 +1,40 @@
 # 👋 Hi, this is Naveen Manjappa
-### Principal Technology Consultant | Full Stack Developer/Lead | SaaS based WMS consultant | Supply Chain domain🚢✈️🚚
+<!-- ### Principal Technology Consultant | Full Stack Developer/Lead | SaaS based WMS consultant | Supply Chain domain🚢✈️🚚 -->
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/NaveenManjappa/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Principal%20Technology%20Consultant%20at%20Manhattan%20Associates%20;%20Designing%20and%20developing%20SaaS%20based%20warehouse%20management%20solutionsPrincipal%20Technology%20Consultant%20%3B%20Full%20Stack%20Developer%2FLead%20%3B%20SaaS%20based%20WMS%20consultant%20%3B%20Supply%20Chain%20domain%F0%9F%9A%A2%20%F0%9F%9A%88%20%F0%9F%9A%9A
+&font=Fira%20Code&center=false&width=940&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" /></a>
+</p>
 
-🧑🏻‍💻 Principal Technology Consultant at Manhattan Associates | Designing and developing SaaS based warehouse management solutions.
+<!-- 🧑🏻‍💻 Principal Technology Consultant at Manhattan Associates | Designing and developing SaaS based warehouse management solutions. -->
 
-### Tech stack
+### 🧑🏻‍💻 Tech stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,react,dotnet,azure,py?perline=4" />
 </p>
 
 
-### 🤝 Connect with me
-[ Linkedin (https://www.linkedin.com/in/naveenmanjappa/)]
+### 🤝 Connect with me:
+<p align="left">
 
-<p align="center">
+ <a href="https://www.linkedin.com/in/naveenmanjappa/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
+
+
+### 🔢 Stats:
+ 
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NaveenManjappa&show_icons=true&theme=tokyonight&hide=stars" width="350">  
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://my-github-streak-stats-beta.vercel.app?user=NaveenManjappa&theme=tokyonight" alt="GitHub Streak" width="350" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaveenManjappa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NaveeManjappa" width="350"/>
 </p>  
 
