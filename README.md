@@ -36,15 +36,17 @@ An enterprise-style RAG assistant that answers HR policy questions, citing the e
 
 ### 🧰 Tech stack
 
-| Area | Tools |
+| Area | Stack |
 | --- | --- |
-| **LLMs & frameworks** | Python · LangChain · LangGraph · OpenAI APIs · Gemini · Pydantic |
-| **Retrieval** | RAG · Qdrant · FlashRank |
-| **Quality & safety** | RAGAS · NeMo Guardrails · LangSmith · Pydantic Logfire · Portkey |
-| **AI-assisted development** | Claude Code · GitHub Copilot |
-| **Backend & APIs** | FastAPI · C# · .NET · REST APIs · SQL Server |
-| **Frontend** | Angular · TypeScript · Tailwind CSS · Bootstrap |
-| **Cloud & delivery** | Azure Functions · Google Cloud Run · Docker · GitHub Actions |
+| **Languages** | Python · C# · TypeScript · SQL |
+| **LLMs & agent frameworks** | OpenAI · Gemini · LangChain · LangGraph · Pydantic |
+| **Vector search & reranking** | Qdrant · FlashRank |
+| **Evaluation & observability** | RAGAS · LangSmith · Pydantic Logfire |
+| **Guardrails & LLM gateway** | NeMo Guardrails · Portkey |
+| **AI coding agents** | Claude Code · GitHub Copilot |
+| **Backend & APIs** | FastAPI · .NET · REST APIs · SQL Server |
+| **Frontend** | Angular · Tailwind CSS · Bootstrap |
+| **Cloud & DevOps** | Azure Functions · Google Cloud Run · Docker · GitHub Actions |
 
 ### 📜 Certifications
 
