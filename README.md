@@ -17,8 +17,11 @@ I'm an **AI Engineer** who builds production LLM applications, RAG and agentic A
 - **At Manhattan Associates:** as Principal Consultant, I contributed backend APIs and document ingestion (C#/.NET, Gemini) to two RAG-based assistants for a commercial warehouse management platform:
   - **SCALE Assist**, a product documentation assistant, which helped **reduce customer feature queries by 80%**.
   - **SCALE SOP Assist**, an operational knowledge assistant, which helped **reduce queries reaching product owners by 50%**.
+
 - **On my own:** I build agentic RAG applications with Python, FastAPI, LangChain, LangGraph, OpenAI, Gemini and Qdrant, with guardrails, observability and evaluation pipelines.
+
 - **How I build:** with Claude Code as my main coding agent, guided by a `CLAUDE.md`, agent skills, a domain glossary and ADRs, and delivered through reviewed pull requests.
+
 - **Next 6–12 months:** building **production-grade multi-agent systems**.
 
 ### 🧱 Before AI
@@ -30,8 +33,11 @@ I'm an **AI Engineer** who builds production LLM applications, RAG and agentic A
 An enterprise-style RAG assistant that answers HR policy questions, citing the exact document, version, section and page.
 
 - Every reply is a cited **Answer**, a **Clarification**, an **Abstention** or a privacy **Refusal**, with prompt-injection tests and rate, token and spending limits.
+
 - **Version-aware:** it answers from the policy version in force on the date the question is about.
+
 - **Evaluated** on 125 questions with gold answers (retrieval hit@k, reciprocal rank, groundedness, response type).
+
 - **CI/CD** with pytest, strict mypy, ruff and Vitest; every merge to `main` deploys to Google Cloud Run and is smoke-tested.
 
 ### 🧰 Tech stack
